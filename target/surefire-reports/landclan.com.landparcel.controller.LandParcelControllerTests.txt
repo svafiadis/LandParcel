@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: landclan.com.landparcel.controller.LandParcelControllerTests
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 1.716 s -- in landclan.com.landparcel.controller.LandParcelControllerTests

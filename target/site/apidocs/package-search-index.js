@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"landclan.com.landparcel"},{"l":"landclan.com.landparcel.controller"},{"l":"landclan.com.landparcel.domain"},{"l":"landclan.com.landparcel.exception"},{"l":"landclan.com.landparcel.repo"},{"l":"landclan.com.landparcel.service"}];updateSearchResults();

@@ -1,0 +1,9 @@
+landclan\com\landparcel\exception\LandParcelNotFoundException.class
+landclan\com\landparcel\domain\LandParcel.class
+landclan\com\landparcel\domain\Status.class
+landclan\com\landparcel\LandparcelApplication.class
+landclan\com\landparcel\service\LandParcelServiceImpl.class
+landclan\com\landparcel\service\LandParcelService.class
+landclan\com\landparcel\controller\LandParcelController.class
+landclan\com\landparcel\repo\LandParcelRepository.class
+landclan\com\landparcel\domain\LandParcelResponse.class
